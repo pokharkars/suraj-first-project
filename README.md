@@ -1,4 +1,4 @@
 # suraj-first-project
 This is my first git hub repository
 <br>
-Author - Suraj Pokharkar(Web Designer)
+Author - Suraj Pokharkar(Web Developer)
